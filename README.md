@@ -1,4 +1,4 @@
 # comicsquare
 
 Hello world
-Hi!!
+Hi!
